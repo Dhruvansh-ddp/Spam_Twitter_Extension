@@ -7,9 +7,10 @@ This browser extension is designed to help Twitter users clean up their timeline
 Remove tweets with morethan 5 hashtags
 
 ## Future Features
-- Automatic detection of spam tweets using predefined heuristics.
-- User customization options for defining what constitutes spam.
-- Safe removal of identified spam without affecting other tweets.
+- Remove unrelated replies or push it down.
+- Check relevance of tweet with its hashtag.
+- push down videos replies and putting gif and text replies at top.
+- User customization options..
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, etc.)
