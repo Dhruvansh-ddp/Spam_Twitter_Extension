@@ -3,7 +3,10 @@
 ## Introduction
 This browser extension is designed to help Twitter users clean up their timelines by identifying and removing spam tweets. It leverages advanced heuristics and user-defined rules to provide a personalized and improved social media experience.
 
-## Features
+## Current feature/s
+Remove tweets with morethan 5 hashtags
+
+## Future Features
 - Automatic detection of spam tweets using predefined heuristics.
 - User customization options for defining what constitutes spam.
 - Safe removal of identified spam without affecting other tweets.
