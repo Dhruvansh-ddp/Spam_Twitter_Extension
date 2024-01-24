@@ -16,7 +16,7 @@ Remove tweets with morethan 5 hashtags
 - A modern web browser (Chrome, Firefox, etc.)
 
 ## Usage
-After installation, navigate to your Twitter feed. The extension will automatically start analyzing the tweets displayed on your timeline and remove any that are recognized as spam.
+After installation, turn on developer mode and add whole extension folder to it. Navigate to your Twitter feed and turn on the extension. The extension will automatically start analyzing the tweets displayed on your timeline and remove any that are recognized as spam.
 
 ## Contributing
 We welcome contributions of all kinds from the community! If you'd like to help improve the Spam Tweet Removal Extension, please see our [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to get started.
