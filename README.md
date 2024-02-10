@@ -25,3 +25,7 @@ We welcome contributions of all kinds from the community! If you'd like to help 
 
 ## Acknowledgments
 A special thank you to all the contributors who will spend time and effort helping to make this extension better!
+
+
+![image](https://github.com/Dhruvansh-ddp/Spam_Twitter_Extension/assets/77879339/e47d9bd9-c900-4e22-897f-e80675970114)
+
