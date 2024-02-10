@@ -11,7 +11,13 @@ There are many ways you can contribute to this project, including:
 - Reviewing Pull Requests
 
 ## Feature Requests
-Few features we need to add in this, 
+What to do?
+- Remove unrelated replies or push it down.
+- Check relevance of tweet with its hashtag.
+- Push down videos replies and putting gif and text replies at top.
+- User customization options.
+
+How to do?
 - Finding an free API which will provide summerization or analyzation of Tweeter content.
 - You will find div id where twitter (X) content appears. Use that info and go ahead with API requests.
 - If you find any useful Video or image summarization tool's API then that would be more useful for spam detection. 
