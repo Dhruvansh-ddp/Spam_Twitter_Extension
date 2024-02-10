@@ -10,7 +10,7 @@ Hide Tweets containing video (useful in comment section spam/promotion)
 ## Future Features
 - Remove unrelated replies or push it down.
 - Check relevance of tweet with its hashtag.
-- push down videos replies and putting gif and text replies at top.
+- push down videos replies and putting gif and text replies at top. 
 - User customization options..
 
 ### Prerequisites
