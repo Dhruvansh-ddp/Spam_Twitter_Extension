@@ -5,6 +5,7 @@ This browser extension is designed to help Twitter users clean up their timeline
 
 ## Current feature/s
 Remove tweets with morethan 5 hashtags
+Hide Tweets containing video (useful in comment section spam/promotion) 
 
 ## Future Features
 - Remove unrelated replies or push it down.
