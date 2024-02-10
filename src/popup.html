@@ -2,23 +2,20 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Original Tweets Filter</title>
+    <title>Twitter Enhancement</title>
     <style>
       body {
-        width: 200px;
-        padding: 10px;
+        width: 240px;
+        padding: 20px;
         text-align: center;
-      }
-      #toggleSwitch {
-        align-items: center;
-        justify-content: center;
-        display: flex;
+        font-family: Arial, sans-serif;
       }
       .switch {
         position: relative;
         display: inline-block;
         width: 60px;
         height: 34px;
+        margin: 10px;
       }
       .switch input {
         opacity: 0;
@@ -50,22 +47,38 @@
       input:checked + .slider {
         background-color: #2196f3;
       }
-      input:focus + .slider {
-        box-shadow: 0 0 1px #2196f3;
-      }
       input:checked + .slider:before {
         transform: translateX(26px);
+      }
+      .switch .slider.round {
+        border-radius: 34px;
+      }
+      .switch .slider.round:before {
+        border-radius: 50%;
+      }
+      label {
+        display: block;
+        margin: 15px auto;
+        font-size: 16px;
       }
     </style>
   </head>
   <body>
-    <h3>Original Tweets Filter</h3>
-    <div id="toggleSwitch">
-      <label class="switch">
+    <h3>Twitter Extension Settings</h3>
+    <label>
+      Filter Tweets by Hashtag Count
+      <div class="switch">
         <input type="checkbox" id="filterToggle" />
         <span class="slider round"></span>
-      </label>
-    </div>
+      </div>
+    </label>
+    <label>
+      Hide Video Tweets
+      <div class="switch">
+        <input type="checkbox" id="videoCommentsToggle" />
+        <span class="slider round"></span>
+      </div>
+    </label>
     <script src="popup.js"></script>
   </body>
 </html>
